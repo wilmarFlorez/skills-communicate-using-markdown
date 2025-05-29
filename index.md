@@ -3,3 +3,9 @@
 This is a placeholder text
 
 ![Security Kinghtocat](https://octodex.github.com/images/securityknightocat.png)
+
+``` javascript
+let number1 = 1;
+let number2 = 2;
+let sum = number1 + number2;
+```
